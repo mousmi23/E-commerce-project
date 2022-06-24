@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: rgb(112, 99, 99);
+  height: 60px;
+  display: block;
+  justify-content: space-around;
+
+  align-items: center;
+  text-decoration: none;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.btn .btn-outline-success {
+  width: 200px;
+}
+
+.form-control {
+  width: 900px;
+}
+
+.nav-link {
+  color: yellow;
+}
